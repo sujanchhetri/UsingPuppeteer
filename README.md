@@ -10,7 +10,7 @@ Usage of puppeteer for different purpose
 * index3 : scrapes and generates the pdf of the site
 * index4 : getting the url or title of the current page
 * index5 : Emulating website in a phone
-* index6 : automatic login to instagram
+* index6 : automatic login to instagram(add your username and password in line 13 and 14)
 
 ### Links to follow
 * https://github.com/puppeteer/puppeteer
