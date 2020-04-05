@@ -14,6 +14,7 @@ Usage of puppeteer for different purpose
 * index5 : Emulating website in a phone
 * index6 : automatic login to instagram(add your username and password in line 13 and 14)
 * index7 : automatic login to twitter(add your username and password in line 13 and 14)
+* index8 : removing images and css from a web page
 
 ### Links to follow
 * https://github.com/puppeteer/puppeteer
